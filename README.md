@@ -10,8 +10,8 @@ Obrigado por conferir minha resolução para o desafio de e-commerce product pag
 
 Neste desafio, foram utilizadas as linguagens de:
 
-• HTML;
-• CSS;
+• HTML;<br>
+• CSS;<br>
 • JavaScript;
 
 ## O projeto
@@ -28,6 +28,6 @@ Caso deseje comunicar-se comigo, aqui vão meus contatos:
 
 
 - [Linkedin](https://www.linkedin.com/in/viniciuspereiraalves/)
-- [Email](engenheiro.viniciusp@gmail.com))
+- [Email](engenheiro.viniciusp@gmail.com)
 
 **Isso é tudo por hoje, fico imensamente grato pela sua atenção! 🚀
