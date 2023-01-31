@@ -2,7 +2,7 @@
 
 ![Preview do desafio](./design/127.0.0.1_5500_index.html.png)
 
-## Bem-vindo! 👋
+## Bem-vindo(a)! 👋
 
 Obrigado por conferir minha resolução para o desafio de e-commerce product page do [Frontend Mentor](https://www.frontendmentor.io).
 
@@ -29,5 +29,3 @@ Caso deseje comunicar-se comigo, aqui vão meus contatos:
 
 - [Linkedin](https://www.linkedin.com/in/viniciuspereiraalves/)
 - [Email](engenheiro.viniciusp@gmail.com)
-
-##Isso é tudo por hoje, fico imensamente grato pela sua atenção! 🚀
